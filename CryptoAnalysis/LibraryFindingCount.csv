@@ -1,0 +1,771 @@
+id,libraryName,vulnType,numFindings
+1,minidns,CryptoCheckAnalysis_StaticIV,0
+2,minidns,CryptoCheckAnalysis_HardCodedKey,0
+3,minidns,CryptoCheckAnalysis_UnsafeECB,0
+4,minidns,CryptoCheckAnalysis_InsecureCryptoAlgorithm,32
+5,minidns,CryptoCheckAnalysis_UnInitializedKey,0
+6,JJWT :: API,CryptoCheckAnalysis_StaticIV,0
+7,JJWT :: API,CryptoCheckAnalysis_HardCodedKey,0
+8,JJWT :: API,CryptoCheckAnalysis_UnsafeECB,0
+9,JJWT :: API,CryptoCheckAnalysis_InsecureCryptoAlgorithm,72
+10,JJWT :: API,CryptoCheckAnalysis_UnInitializedKey,0
+11,com.crashlytics.sdk.android:crashlytics,CryptoCheckAnalysis_StaticIV,0
+12,com.crashlytics.sdk.android:crashlytics,CryptoCheckAnalysis_HardCodedKey,0
+13,com.crashlytics.sdk.android:crashlytics,CryptoCheckAnalysis_UnsafeECB,1
+14,com.crashlytics.sdk.android:crashlytics,CryptoCheckAnalysis_InsecureCryptoAlgorithm,5
+15,com.crashlytics.sdk.android:crashlytics,CryptoCheckAnalysis_UnInitializedKey,0
+16,Jetty :: Websocket,CryptoCheckAnalysis_StaticIV,0
+17,Jetty :: Websocket,CryptoCheckAnalysis_HardCodedKey,0
+18,Jetty :: Websocket,CryptoCheckAnalysis_UnsafeECB,0
+19,Jetty :: Websocket,CryptoCheckAnalysis_InsecureCryptoAlgorithm,4
+20,Jetty :: Websocket,CryptoCheckAnalysis_UnInitializedKey,0
+21,RestFB,CryptoCheckAnalysis_StaticIV,0
+22,RestFB,CryptoCheckAnalysis_HardCodedKey,0
+23,RestFB,CryptoCheckAnalysis_UnsafeECB,0
+24,RestFB,CryptoCheckAnalysis_InsecureCryptoAlgorithm,7
+25,RestFB,CryptoCheckAnalysis_UnInitializedKey,0
+26,Apache JAMES Mime4j,CryptoCheckAnalysis_StaticIV,0
+27,Apache JAMES Mime4j,CryptoCheckAnalysis_HardCodedKey,0
+28,Apache JAMES Mime4j,CryptoCheckAnalysis_UnsafeECB,0
+29,Apache JAMES Mime4j,CryptoCheckAnalysis_InsecureCryptoAlgorithm,35
+30,Apache JAMES Mime4j,CryptoCheckAnalysis_UnInitializedKey,0
+31,Bytes Utility Library,CryptoCheckAnalysis_StaticIV,0
+32,Bytes Utility Library,CryptoCheckAnalysis_HardCodedKey,0
+33,Bytes Utility Library,CryptoCheckAnalysis_UnsafeECB,0
+34,Bytes Utility Library,CryptoCheckAnalysis_InsecureCryptoAlgorithm,1
+35,Bytes Utility Library,CryptoCheckAnalysis_UnInitializedKey,1
+36,Okio,CryptoCheckAnalysis_StaticIV,0
+37,Okio,CryptoCheckAnalysis_HardCodedKey,229
+38,Okio,CryptoCheckAnalysis_UnsafeECB,0
+39,Okio,CryptoCheckAnalysis_InsecureCryptoAlgorithm,5503
+40,Okio,CryptoCheckAnalysis_UnInitializedKey,0
+41,Facebook Core,CryptoCheckAnalysis_StaticIV,0
+42,Facebook Core,CryptoCheckAnalysis_HardCodedKey,0
+43,Facebook Core,CryptoCheckAnalysis_UnsafeECB,0
+44,Facebook Core,CryptoCheckAnalysis_InsecureCryptoAlgorithm,199
+45,Facebook Core,CryptoCheckAnalysis_UnInitializedKey,0
+46,Smack,CryptoCheckAnalysis_StaticIV,0
+47,Smack,CryptoCheckAnalysis_HardCodedKey,1
+48,Smack,CryptoCheckAnalysis_UnsafeECB,0
+49,Smack,CryptoCheckAnalysis_InsecureCryptoAlgorithm,67
+50,Smack,CryptoCheckAnalysis_UnInitializedKey,0
+51,Cloudinary Core Library,CryptoCheckAnalysis_StaticIV,0
+52,Cloudinary Core Library,CryptoCheckAnalysis_HardCodedKey,0
+53,Cloudinary Core Library,CryptoCheckAnalysis_UnsafeECB,0
+54,Cloudinary Core Library,CryptoCheckAnalysis_InsecureCryptoAlgorithm,5
+55,Cloudinary Core Library,CryptoCheckAnalysis_UnInitializedKey,0
+56,Asynchronous Http Client,CryptoCheckAnalysis_StaticIV,0
+57,Asynchronous Http Client,CryptoCheckAnalysis_HardCodedKey,1
+58,Asynchronous Http Client,CryptoCheckAnalysis_UnsafeECB,4
+59,Asynchronous Http Client,CryptoCheckAnalysis_InsecureCryptoAlgorithm,20
+60,Asynchronous Http Client,CryptoCheckAnalysis_UnInitializedKey,0
+61,Amplitude Android SDK,CryptoCheckAnalysis_StaticIV,0
+62,Amplitude Android SDK,CryptoCheckAnalysis_HardCodedKey,0
+63,Amplitude Android SDK,CryptoCheckAnalysis_UnsafeECB,0
+64,Amplitude Android SDK,CryptoCheckAnalysis_InsecureCryptoAlgorithm,74
+65,Amplitude Android SDK,CryptoCheckAnalysis_UnInitializedKey,0
+66,Codec,CryptoCheckAnalysis_StaticIV,0
+67,Codec,CryptoCheckAnalysis_HardCodedKey,0
+68,Codec,CryptoCheckAnalysis_UnsafeECB,0
+69,Codec,CryptoCheckAnalysis_InsecureCryptoAlgorithm,903
+70,Codec,CryptoCheckAnalysis_UnInitializedKey,0
+71,Scribe OAuth Library,CryptoCheckAnalysis_StaticIV,0
+72,Scribe OAuth Library,CryptoCheckAnalysis_HardCodedKey,0
+73,Scribe OAuth Library,CryptoCheckAnalysis_UnsafeECB,0
+74,Scribe OAuth Library,CryptoCheckAnalysis_InsecureCryptoAlgorithm,40
+75,Scribe OAuth Library,CryptoCheckAnalysis_UnInitializedKey,0
+76,smbj,CryptoCheckAnalysis_StaticIV,0
+77,smbj,CryptoCheckAnalysis_HardCodedKey,0
+78,smbj,CryptoCheckAnalysis_UnsafeECB,3
+79,smbj,CryptoCheckAnalysis_InsecureCryptoAlgorithm,9
+80,smbj,CryptoCheckAnalysis_UnInitializedKey,0
+81,com.google.android.gms:play-services-iid,CryptoCheckAnalysis_StaticIV,0
+82,com.google.android.gms:play-services-iid,CryptoCheckAnalysis_HardCodedKey,218
+83,com.google.android.gms:play-services-iid,CryptoCheckAnalysis_UnsafeECB,0
+84,com.google.android.gms:play-services-iid,CryptoCheckAnalysis_InsecureCryptoAlgorithm,888
+85,com.google.android.gms:play-services-iid,CryptoCheckAnalysis_UnInitializedKey,0
+86,okhttp,CryptoCheckAnalysis_StaticIV,0
+87,okhttp,CryptoCheckAnalysis_HardCodedKey,0
+88,okhttp,CryptoCheckAnalysis_UnsafeECB,0
+89,okhttp,CryptoCheckAnalysis_InsecureCryptoAlgorithm,664
+90,okhttp,CryptoCheckAnalysis_UnInitializedKey,0
+91,AppNexus Android SDK,CryptoCheckAnalysis_StaticIV,0
+92,AppNexus Android SDK,CryptoCheckAnalysis_HardCodedKey,0
+93,AppNexus Android SDK,CryptoCheckAnalysis_UnsafeECB,0
+94,AppNexus Android SDK,CryptoCheckAnalysis_InsecureCryptoAlgorithm,6
+95,AppNexus Android SDK,CryptoCheckAnalysis_UnInitializedKey,0
+96,JSON Web Token support for the JVM,CryptoCheckAnalysis_StaticIV,0
+97,JSON Web Token support for the JVM,CryptoCheckAnalysis_HardCodedKey,0
+98,JSON Web Token support for the JVM,CryptoCheckAnalysis_UnsafeECB,0
+99,JSON Web Token support for the JVM,CryptoCheckAnalysis_InsecureCryptoAlgorithm,648
+100,JSON Web Token support for the JVM,CryptoCheckAnalysis_UnInitializedKey,0
+101,Google HTTP Client Library for Java,CryptoCheckAnalysis_StaticIV,0
+102,Google HTTP Client Library for Java,CryptoCheckAnalysis_HardCodedKey,24
+103,Google HTTP Client Library for Java,CryptoCheckAnalysis_UnsafeECB,0
+104,Google HTTP Client Library for Java,CryptoCheckAnalysis_InsecureCryptoAlgorithm,16
+105,Google HTTP Client Library for Java,CryptoCheckAnalysis_UnInitializedKey,0
+106,com.google.firebase:firebase-perf,CryptoCheckAnalysis_StaticIV,0
+107,com.google.firebase:firebase-perf,CryptoCheckAnalysis_HardCodedKey,0
+108,com.google.firebase:firebase-perf,CryptoCheckAnalysis_UnsafeECB,0
+109,com.google.firebase:firebase-perf,CryptoCheckAnalysis_InsecureCryptoAlgorithm,8
+110,com.google.firebase:firebase-perf,CryptoCheckAnalysis_UnInitializedKey,0
+111,Smack Extensions,CryptoCheckAnalysis_StaticIV,0
+112,Smack Extensions,CryptoCheckAnalysis_HardCodedKey,0
+113,Smack Extensions,CryptoCheckAnalysis_UnsafeECB,0
+114,Smack Extensions,CryptoCheckAnalysis_InsecureCryptoAlgorithm,3
+115,Smack Extensions,CryptoCheckAnalysis_UnInitializedKey,0
+116,Apache HttpClient,CryptoCheckAnalysis_StaticIV,0
+117,Apache HttpClient,CryptoCheckAnalysis_HardCodedKey,0
+118,Apache HttpClient,CryptoCheckAnalysis_UnsafeECB,0
+119,Apache HttpClient,CryptoCheckAnalysis_InsecureCryptoAlgorithm,122
+120,Apache HttpClient,CryptoCheckAnalysis_UnInitializedKey,0
+121,com.google.android.ads.consent:consent-library,CryptoCheckAnalysis_StaticIV,0
+122,com.google.android.ads.consent:consent-library,CryptoCheckAnalysis_HardCodedKey,0
+123,com.google.android.ads.consent:consent-library,CryptoCheckAnalysis_UnsafeECB,0
+124,com.google.android.ads.consent:consent-library,CryptoCheckAnalysis_InsecureCryptoAlgorithm,53
+125,com.google.android.ads.consent:consent-library,CryptoCheckAnalysis_UnInitializedKey,0
+126,Apache Avro Tools,CryptoCheckAnalysis_StaticIV,0
+127,Apache Avro Tools,CryptoCheckAnalysis_HardCodedKey,0
+128,Apache Avro Tools,CryptoCheckAnalysis_UnsafeECB,0
+129,Apache Avro Tools,CryptoCheckAnalysis_InsecureCryptoAlgorithm,8
+130,Apache Avro Tools,CryptoCheckAnalysis_UnInitializedKey,0
+131,com.google.android.gms:play-services-appindexing,CryptoCheckAnalysis_StaticIV,798
+132,com.google.android.gms:play-services-appindexing,CryptoCheckAnalysis_HardCodedKey,1036
+133,com.google.android.gms:play-services-appindexing,CryptoCheckAnalysis_UnsafeECB,1815
+134,com.google.android.gms:play-services-appindexing,CryptoCheckAnalysis_InsecureCryptoAlgorithm,9843
+135,com.google.android.gms:play-services-appindexing,CryptoCheckAnalysis_UnInitializedKey,0
+136,org.eclipse.paho:org.eclipse.paho.client.mqttv3,CryptoCheckAnalysis_StaticIV,0
+137,org.eclipse.paho:org.eclipse.paho.client.mqttv3,CryptoCheckAnalysis_HardCodedKey,0
+138,org.eclipse.paho:org.eclipse.paho.client.mqttv3,CryptoCheckAnalysis_UnsafeECB,0
+139,org.eclipse.paho:org.eclipse.paho.client.mqttv3,CryptoCheckAnalysis_InsecureCryptoAlgorithm,6
+140,org.eclipse.paho:org.eclipse.paho.client.mqttv3,CryptoCheckAnalysis_UnInitializedKey,0
+141,ISO Parser,CryptoCheckAnalysis_StaticIV,24
+142,ISO Parser,CryptoCheckAnalysis_HardCodedKey,0
+143,ISO Parser,CryptoCheckAnalysis_UnsafeECB,30
+144,ISO Parser,CryptoCheckAnalysis_InsecureCryptoAlgorithm,30
+145,ISO Parser,CryptoCheckAnalysis_UnInitializedKey,0
+146,PDF Renderer,CryptoCheckAnalysis_StaticIV,0
+147,PDF Renderer,CryptoCheckAnalysis_HardCodedKey,2
+148,PDF Renderer,CryptoCheckAnalysis_UnsafeECB,0
+149,PDF Renderer,CryptoCheckAnalysis_InsecureCryptoAlgorithm,6
+150,PDF Renderer,CryptoCheckAnalysis_UnInitializedKey,0
+151,ApacheDS All,CryptoCheckAnalysis_StaticIV,0
+152,ApacheDS All,CryptoCheckAnalysis_HardCodedKey,0
+153,ApacheDS All,CryptoCheckAnalysis_UnsafeECB,4
+154,ApacheDS All,CryptoCheckAnalysis_InsecureCryptoAlgorithm,14
+155,ApacheDS All,CryptoCheckAnalysis_UnInitializedKey,0
+156,dexmaker,CryptoCheckAnalysis_StaticIV,0
+157,dexmaker,CryptoCheckAnalysis_HardCodedKey,0
+158,dexmaker,CryptoCheckAnalysis_UnsafeECB,0
+159,dexmaker,CryptoCheckAnalysis_InsecureCryptoAlgorithm,1
+160,dexmaker,CryptoCheckAnalysis_UnInitializedKey,0
+161,net.lingala.zip4j:zip4j,CryptoCheckAnalysis_StaticIV,0
+162,net.lingala.zip4j:zip4j,CryptoCheckAnalysis_HardCodedKey,6
+163,net.lingala.zip4j:zip4j,CryptoCheckAnalysis_UnsafeECB,0
+164,net.lingala.zip4j:zip4j,CryptoCheckAnalysis_InsecureCryptoAlgorithm,17
+165,net.lingala.zip4j:zip4j,CryptoCheckAnalysis_UnInitializedKey,0
+166,stripe-java,CryptoCheckAnalysis_StaticIV,0
+167,stripe-java,CryptoCheckAnalysis_HardCodedKey,0
+168,stripe-java,CryptoCheckAnalysis_UnsafeECB,0
+169,stripe-java,CryptoCheckAnalysis_InsecureCryptoAlgorithm,13
+170,stripe-java,CryptoCheckAnalysis_UnInitializedKey,0
+171,Apache FreeMarker,CryptoCheckAnalysis_StaticIV,0
+172,Apache FreeMarker,CryptoCheckAnalysis_HardCodedKey,0
+173,Apache FreeMarker,CryptoCheckAnalysis_UnsafeECB,0
+174,Apache FreeMarker,CryptoCheckAnalysis_InsecureCryptoAlgorithm,4
+175,Apache FreeMarker,CryptoCheckAnalysis_UnInitializedKey,0
+176,Apache FtpServer Core,CryptoCheckAnalysis_StaticIV,0
+177,Apache FtpServer Core,CryptoCheckAnalysis_HardCodedKey,0
+178,Apache FtpServer Core,CryptoCheckAnalysis_UnsafeECB,0
+179,Apache FtpServer Core,CryptoCheckAnalysis_InsecureCryptoAlgorithm,3
+180,Apache FtpServer Core,CryptoCheckAnalysis_UnInitializedKey,0
+181,com.google.android.libraries.places:places-compat,CryptoCheckAnalysis_StaticIV,0
+182,com.google.android.libraries.places:places-compat,CryptoCheckAnalysis_HardCodedKey,0
+183,com.google.android.libraries.places:places-compat,CryptoCheckAnalysis_UnsafeECB,0
+184,com.google.android.libraries.places:places-compat,CryptoCheckAnalysis_InsecureCryptoAlgorithm,9
+185,com.google.android.libraries.places:places-compat,CryptoCheckAnalysis_UnInitializedKey,0
+186,AWS SDK for Android - Core Runtime,CryptoCheckAnalysis_StaticIV,0
+187,AWS SDK for Android - Core Runtime,CryptoCheckAnalysis_HardCodedKey,0
+188,AWS SDK for Android - Core Runtime,CryptoCheckAnalysis_UnsafeECB,16
+189,AWS SDK for Android - Core Runtime,CryptoCheckAnalysis_InsecureCryptoAlgorithm,72
+190,AWS SDK for Android - Core Runtime,CryptoCheckAnalysis_UnInitializedKey,0
+191,com.google.android.gms:play-services-tagmanager-api,CryptoCheckAnalysis_StaticIV,0
+192,com.google.android.gms:play-services-tagmanager-api,CryptoCheckAnalysis_HardCodedKey,0
+193,com.google.android.gms:play-services-tagmanager-api,CryptoCheckAnalysis_UnsafeECB,0
+194,com.google.android.gms:play-services-tagmanager-api,CryptoCheckAnalysis_InsecureCryptoAlgorithm,2036
+195,com.google.android.gms:play-services-tagmanager-api,CryptoCheckAnalysis_UnInitializedKey,0
+196,Reflection Utilities,CryptoCheckAnalysis_StaticIV,0
+197,Reflection Utilities,CryptoCheckAnalysis_HardCodedKey,0
+198,Reflection Utilities,CryptoCheckAnalysis_UnsafeECB,0
+199,Reflection Utilities,CryptoCheckAnalysis_InsecureCryptoAlgorithm,1
+200,Reflection Utilities,CryptoCheckAnalysis_UnInitializedKey,0
+201,scrypt,CryptoCheckAnalysis_StaticIV,0
+202,scrypt,CryptoCheckAnalysis_HardCodedKey,0
+203,scrypt,CryptoCheckAnalysis_UnsafeECB,0
+204,scrypt,CryptoCheckAnalysis_InsecureCryptoAlgorithm,2
+205,scrypt,CryptoCheckAnalysis_UnInitializedKey,0
+206,iText Core,CryptoCheckAnalysis_StaticIV,2
+207,iText Core,CryptoCheckAnalysis_HardCodedKey,0
+208,iText Core,CryptoCheckAnalysis_UnsafeECB,8
+209,iText Core,CryptoCheckAnalysis_InsecureCryptoAlgorithm,133
+210,iText Core,CryptoCheckAnalysis_UnInitializedKey,0
+211,JavaMail API (compat),CryptoCheckAnalysis_StaticIV,0
+212,JavaMail API (compat),CryptoCheckAnalysis_HardCodedKey,0
+213,JavaMail API (compat),CryptoCheckAnalysis_UnsafeECB,0
+214,JavaMail API (compat),CryptoCheckAnalysis_InsecureCryptoAlgorithm,46
+215,JavaMail API (compat),CryptoCheckAnalysis_UnInitializedKey,0
+216,twitter4j-core,CryptoCheckAnalysis_StaticIV,0
+217,twitter4j-core,CryptoCheckAnalysis_HardCodedKey,6
+218,twitter4j-core,CryptoCheckAnalysis_UnsafeECB,0
+219,twitter4j-core,CryptoCheckAnalysis_InsecureCryptoAlgorithm,294
+220,twitter4j-core,CryptoCheckAnalysis_UnInitializedKey,0
+221,Processor,CryptoCheckAnalysis_StaticIV,0
+222,Processor,CryptoCheckAnalysis_HardCodedKey,0
+223,Processor,CryptoCheckAnalysis_UnsafeECB,0
+224,Processor,CryptoCheckAnalysis_InsecureCryptoAlgorithm,4
+225,Processor,CryptoCheckAnalysis_UnInitializedKey,0
+226,LDAP Class Libraries for Java (JLDAP),CryptoCheckAnalysis_StaticIV,0
+227,LDAP Class Libraries for Java (JLDAP),CryptoCheckAnalysis_HardCodedKey,0
+228,LDAP Class Libraries for Java (JLDAP),CryptoCheckAnalysis_UnsafeECB,0
+229,LDAP Class Libraries for Java (JLDAP),CryptoCheckAnalysis_InsecureCryptoAlgorithm,10
+230,LDAP Class Libraries for Java (JLDAP),CryptoCheckAnalysis_UnInitializedKey,0
+231,com.google.android.gms:play-services-analytics-impl,CryptoCheckAnalysis_StaticIV,1
+232,com.google.android.gms:play-services-analytics-impl,CryptoCheckAnalysis_HardCodedKey,0
+233,com.google.android.gms:play-services-analytics-impl,CryptoCheckAnalysis_UnsafeECB,86
+234,com.google.android.gms:play-services-analytics-impl,CryptoCheckAnalysis_InsecureCryptoAlgorithm,396
+235,com.google.android.gms:play-services-analytics-impl,CryptoCheckAnalysis_UnInitializedKey,0
+236,socialauth,CryptoCheckAnalysis_StaticIV,0
+237,socialauth,CryptoCheckAnalysis_HardCodedKey,0
+238,socialauth,CryptoCheckAnalysis_UnsafeECB,0
+239,socialauth,CryptoCheckAnalysis_InsecureCryptoAlgorithm,6
+240,socialauth,CryptoCheckAnalysis_UnInitializedKey,0
+241,flink-runtime,CryptoCheckAnalysis_StaticIV,0
+242,flink-runtime,CryptoCheckAnalysis_HardCodedKey,0
+243,flink-runtime,CryptoCheckAnalysis_UnsafeECB,0
+244,flink-runtime,CryptoCheckAnalysis_InsecureCryptoAlgorithm,4
+245,flink-runtime,CryptoCheckAnalysis_UnInitializedKey,0
+246,JSch,CryptoCheckAnalysis_StaticIV,18
+247,JSch,CryptoCheckAnalysis_HardCodedKey,28
+248,JSch,CryptoCheckAnalysis_UnsafeECB,24
+249,JSch,CryptoCheckAnalysis_InsecureCryptoAlgorithm,89
+250,JSch,CryptoCheckAnalysis_UnInitializedKey,0
+251,aliyun-oss-sdk-android,CryptoCheckAnalysis_StaticIV,0
+252,aliyun-oss-sdk-android,CryptoCheckAnalysis_HardCodedKey,0
+253,aliyun-oss-sdk-android,CryptoCheckAnalysis_UnsafeECB,0
+254,aliyun-oss-sdk-android,CryptoCheckAnalysis_InsecureCryptoAlgorithm,5
+255,aliyun-oss-sdk-android,CryptoCheckAnalysis_UnInitializedKey,0
+256,Nimbus JOSE+JWT,CryptoCheckAnalysis_StaticIV,0
+257,Nimbus JOSE+JWT,CryptoCheckAnalysis_HardCodedKey,11
+258,Nimbus JOSE+JWT,CryptoCheckAnalysis_UnsafeECB,84
+259,Nimbus JOSE+JWT,CryptoCheckAnalysis_InsecureCryptoAlgorithm,575
+260,Nimbus JOSE+JWT,CryptoCheckAnalysis_UnInitializedKey,0
+261,Universal Image Loader Library,CryptoCheckAnalysis_StaticIV,0
+262,Universal Image Loader Library,CryptoCheckAnalysis_HardCodedKey,0
+263,Universal Image Loader Library,CryptoCheckAnalysis_UnsafeECB,0
+264,Universal Image Loader Library,CryptoCheckAnalysis_InsecureCryptoAlgorithm,93
+265,Universal Image Loader Library,CryptoCheckAnalysis_UnInitializedKey,0
+266,Apache Commons Math,CryptoCheckAnalysis_StaticIV,0
+267,Apache Commons Math,CryptoCheckAnalysis_HardCodedKey,0
+268,Apache Commons Math,CryptoCheckAnalysis_UnsafeECB,0
+269,Apache Commons Math,CryptoCheckAnalysis_InsecureCryptoAlgorithm,2
+270,Apache Commons Math,CryptoCheckAnalysis_UnInitializedKey,0
+271,Android Common Library Billing,CryptoCheckAnalysis_StaticIV,4
+272,Android Common Library Billing,CryptoCheckAnalysis_HardCodedKey,2
+273,Android Common Library Billing,CryptoCheckAnalysis_UnsafeECB,4
+274,Android Common Library Billing,CryptoCheckAnalysis_InsecureCryptoAlgorithm,12
+275,Android Common Library Billing,CryptoCheckAnalysis_UnInitializedKey,0
+276,Branch Android SDK,CryptoCheckAnalysis_StaticIV,0
+277,Branch Android SDK,CryptoCheckAnalysis_HardCodedKey,0
+278,Branch Android SDK,CryptoCheckAnalysis_UnsafeECB,0
+279,Branch Android SDK,CryptoCheckAnalysis_InsecureCryptoAlgorithm,17
+280,Branch Android SDK,CryptoCheckAnalysis_UnInitializedKey,0
+281,SoLoader,CryptoCheckAnalysis_StaticIV,0
+282,SoLoader,CryptoCheckAnalysis_HardCodedKey,0
+283,SoLoader,CryptoCheckAnalysis_UnsafeECB,0
+284,SoLoader,CryptoCheckAnalysis_InsecureCryptoAlgorithm,46
+285,SoLoader,CryptoCheckAnalysis_UnInitializedKey,0
+286,XZ for Java,CryptoCheckAnalysis_StaticIV,0
+287,XZ for Java,CryptoCheckAnalysis_HardCodedKey,0
+288,XZ for Java,CryptoCheckAnalysis_UnsafeECB,0
+289,XZ for Java,CryptoCheckAnalysis_InsecureCryptoAlgorithm,7
+290,XZ for Java,CryptoCheckAnalysis_UnInitializedKey,0
+291,com.google.firebase:firebase-ml-natural-language-translate,CryptoCheckAnalysis_StaticIV,0
+292,com.google.firebase:firebase-ml-natural-language-translate,CryptoCheckAnalysis_HardCodedKey,0
+293,com.google.firebase:firebase-ml-natural-language-translate,CryptoCheckAnalysis_UnsafeECB,0
+294,com.google.firebase:firebase-ml-natural-language-translate,CryptoCheckAnalysis_InsecureCryptoAlgorithm,1
+295,com.google.firebase:firebase-ml-natural-language-translate,CryptoCheckAnalysis_UnInitializedKey,0
+296,Apache Commons Compress,CryptoCheckAnalysis_StaticIV,1
+297,Apache Commons Compress,CryptoCheckAnalysis_HardCodedKey,0
+298,Apache Commons Compress,CryptoCheckAnalysis_UnsafeECB,2
+299,Apache Commons Compress,CryptoCheckAnalysis_InsecureCryptoAlgorithm,6
+300,Apache Commons Compress,CryptoCheckAnalysis_UnInitializedKey,0
+301,GNU Crypto,CryptoCheckAnalysis_StaticIV,0
+302,GNU Crypto,CryptoCheckAnalysis_HardCodedKey,1
+303,GNU Crypto,CryptoCheckAnalysis_UnsafeECB,0
+304,GNU Crypto,CryptoCheckAnalysis_InsecureCryptoAlgorithm,13
+305,GNU Crypto,CryptoCheckAnalysis_UnInitializedKey,0
+306,facebook4j-core,CryptoCheckAnalysis_StaticIV,0
+307,facebook4j-core,CryptoCheckAnalysis_HardCodedKey,0
+308,facebook4j-core,CryptoCheckAnalysis_UnsafeECB,0
+309,facebook4j-core,CryptoCheckAnalysis_InsecureCryptoAlgorithm,2
+310,facebook4j-core,CryptoCheckAnalysis_UnInitializedKey,0
+311,AndroidAsync,CryptoCheckAnalysis_StaticIV,0
+312,AndroidAsync,CryptoCheckAnalysis_HardCodedKey,0
+313,AndroidAsync,CryptoCheckAnalysis_UnsafeECB,0
+314,AndroidAsync,CryptoCheckAnalysis_InsecureCryptoAlgorithm,26
+315,AndroidAsync,CryptoCheckAnalysis_UnInitializedKey,0
+316,com.google.firebase:firebase-database-connection,CryptoCheckAnalysis_StaticIV,0
+317,com.google.firebase:firebase-database-connection,CryptoCheckAnalysis_HardCodedKey,0
+318,com.google.firebase:firebase-database-connection,CryptoCheckAnalysis_UnsafeECB,0
+319,com.google.firebase:firebase-database-connection,CryptoCheckAnalysis_InsecureCryptoAlgorithm,3
+320,com.google.firebase:firebase-database-connection,CryptoCheckAnalysis_UnInitializedKey,0
+321,Java Client for Google Maps Services,CryptoCheckAnalysis_StaticIV,0
+322,Java Client for Google Maps Services,CryptoCheckAnalysis_HardCodedKey,0
+323,Java Client for Google Maps Services,CryptoCheckAnalysis_UnsafeECB,0
+324,Java Client for Google Maps Services,CryptoCheckAnalysis_InsecureCryptoAlgorithm,2
+325,Java Client for Google Maps Services,CryptoCheckAnalysis_UnInitializedKey,0
+326,signpost-core,CryptoCheckAnalysis_StaticIV,0
+327,signpost-core,CryptoCheckAnalysis_HardCodedKey,6
+328,signpost-core,CryptoCheckAnalysis_UnsafeECB,0
+329,signpost-core,CryptoCheckAnalysis_InsecureCryptoAlgorithm,106
+330,signpost-core,CryptoCheckAnalysis_UnInitializedKey,0
+331,jscep,CryptoCheckAnalysis_StaticIV,0
+332,jscep,CryptoCheckAnalysis_HardCodedKey,0
+333,jscep,CryptoCheckAnalysis_UnsafeECB,1
+334,jscep,CryptoCheckAnalysis_InsecureCryptoAlgorithm,4
+335,jscep,CryptoCheckAnalysis_UnInitializedKey,0
+336,Apache POI,CryptoCheckAnalysis_StaticIV,0
+337,Apache POI,CryptoCheckAnalysis_HardCodedKey,0
+338,Apache POI,CryptoCheckAnalysis_UnsafeECB,1
+339,Apache POI,CryptoCheckAnalysis_InsecureCryptoAlgorithm,12
+340,Apache POI,CryptoCheckAnalysis_UnInitializedKey,0
+341,OkHttp,CryptoCheckAnalysis_StaticIV,0
+342,OkHttp,CryptoCheckAnalysis_HardCodedKey,0
+343,OkHttp,CryptoCheckAnalysis_UnsafeECB,0
+344,OkHttp,CryptoCheckAnalysis_InsecureCryptoAlgorithm,372
+345,OkHttp,CryptoCheckAnalysis_UnInitializedKey,0
+346,Tomitribe :: HTTP Signatures,CryptoCheckAnalysis_StaticIV,0
+347,Tomitribe :: HTTP Signatures,CryptoCheckAnalysis_HardCodedKey,0
+348,Tomitribe :: HTTP Signatures,CryptoCheckAnalysis_UnsafeECB,0
+349,Tomitribe :: HTTP Signatures,CryptoCheckAnalysis_InsecureCryptoAlgorithm,143
+350,Tomitribe :: HTTP Signatures,CryptoCheckAnalysis_UnInitializedKey,0
+351,androidx.security:security-crypto,CryptoCheckAnalysis_StaticIV,0
+352,androidx.security:security-crypto,CryptoCheckAnalysis_HardCodedKey,0
+353,androidx.security:security-crypto,CryptoCheckAnalysis_UnsafeECB,0
+354,androidx.security:security-crypto,CryptoCheckAnalysis_InsecureCryptoAlgorithm,6
+355,androidx.security:security-crypto,CryptoCheckAnalysis_UnInitializedKey,0
+356,Mozilla Rhino,CryptoCheckAnalysis_StaticIV,0
+357,Mozilla Rhino,CryptoCheckAnalysis_HardCodedKey,0
+358,Mozilla Rhino,CryptoCheckAnalysis_UnsafeECB,0
+359,Mozilla Rhino,CryptoCheckAnalysis_InsecureCryptoAlgorithm,12
+360,Mozilla Rhino,CryptoCheckAnalysis_UnInitializedKey,0
+361,getdown,CryptoCheckAnalysis_StaticIV,1
+362,getdown,CryptoCheckAnalysis_HardCodedKey,2
+363,getdown,CryptoCheckAnalysis_UnsafeECB,5
+364,getdown,CryptoCheckAnalysis_InsecureCryptoAlgorithm,25
+365,getdown,CryptoCheckAnalysis_UnInitializedKey,0
+366,POJava Utilities,CryptoCheckAnalysis_StaticIV,0
+367,POJava Utilities,CryptoCheckAnalysis_HardCodedKey,0
+368,POJava Utilities,CryptoCheckAnalysis_UnsafeECB,0
+369,POJava Utilities,CryptoCheckAnalysis_InsecureCryptoAlgorithm,2
+370,POJava Utilities,CryptoCheckAnalysis_UnInitializedKey,0
+371,paypal-android-sdk,CryptoCheckAnalysis_StaticIV,0
+372,paypal-android-sdk,CryptoCheckAnalysis_HardCodedKey,17
+373,paypal-android-sdk,CryptoCheckAnalysis_UnsafeECB,34
+374,paypal-android-sdk,CryptoCheckAnalysis_InsecureCryptoAlgorithm,128
+375,paypal-android-sdk,CryptoCheckAnalysis_UnInitializedKey,0
+376,jose4j,CryptoCheckAnalysis_StaticIV,1
+377,jose4j,CryptoCheckAnalysis_HardCodedKey,1
+378,jose4j,CryptoCheckAnalysis_UnsafeECB,36
+379,jose4j,CryptoCheckAnalysis_InsecureCryptoAlgorithm,89
+380,jose4j,CryptoCheckAnalysis_UnInitializedKey,0
+381,com.google.android.gms:auth-api-impl,CryptoCheckAnalysis_StaticIV,0
+382,com.google.android.gms:auth-api-impl,CryptoCheckAnalysis_HardCodedKey,0
+383,com.google.android.gms:auth-api-impl,CryptoCheckAnalysis_UnsafeECB,0
+384,com.google.android.gms:auth-api-impl,CryptoCheckAnalysis_InsecureCryptoAlgorithm,18
+385,com.google.android.gms:auth-api-impl,CryptoCheckAnalysis_UnInitializedKey,0
+386,androidx.test:runner,CryptoCheckAnalysis_StaticIV,0
+387,androidx.test:runner,CryptoCheckAnalysis_HardCodedKey,0
+388,androidx.test:runner,CryptoCheckAnalysis_UnsafeECB,0
+389,androidx.test:runner,CryptoCheckAnalysis_InsecureCryptoAlgorithm,1
+390,androidx.test:runner,CryptoCheckAnalysis_UnInitializedKey,0
+391,Apache Commons VFS,CryptoCheckAnalysis_StaticIV,0
+392,Apache Commons VFS,CryptoCheckAnalysis_HardCodedKey,3
+393,Apache Commons VFS,CryptoCheckAnalysis_UnsafeECB,3
+394,Apache Commons VFS,CryptoCheckAnalysis_InsecureCryptoAlgorithm,6
+395,Apache Commons VFS,CryptoCheckAnalysis_UnInitializedKey,0
+396,Robospice - Persistence Module,CryptoCheckAnalysis_StaticIV,0
+397,Robospice - Persistence Module,CryptoCheckAnalysis_HardCodedKey,0
+398,Robospice - Persistence Module,CryptoCheckAnalysis_UnsafeECB,0
+399,Robospice - Persistence Module,CryptoCheckAnalysis_InsecureCryptoAlgorithm,2
+400,Robospice - Persistence Module,CryptoCheckAnalysis_UnInitializedKey,0
+401,Jetty :: Utilities,CryptoCheckAnalysis_StaticIV,0
+402,Jetty :: Utilities,CryptoCheckAnalysis_HardCodedKey,0
+403,Jetty :: Utilities,CryptoCheckAnalysis_UnsafeECB,0
+404,Jetty :: Utilities,CryptoCheckAnalysis_InsecureCryptoAlgorithm,4
+405,Jetty :: Utilities,CryptoCheckAnalysis_UnInitializedKey,0
+406,com.google.android.gms:play-services-ads-lite,CryptoCheckAnalysis_StaticIV,110
+407,com.google.android.gms:play-services-ads-lite,CryptoCheckAnalysis_HardCodedKey,111
+408,com.google.android.gms:play-services-ads-lite,CryptoCheckAnalysis_UnsafeECB,120
+409,com.google.android.gms:play-services-ads-lite,CryptoCheckAnalysis_InsecureCryptoAlgorithm,547
+410,com.google.android.gms:play-services-ads-lite,CryptoCheckAnalysis_UnInitializedKey,0
+411,NetworkBench NewLens Android Agent SDK,CryptoCheckAnalysis_StaticIV,0
+412,NetworkBench NewLens Android Agent SDK,CryptoCheckAnalysis_HardCodedKey,0
+413,NetworkBench NewLens Android Agent SDK,CryptoCheckAnalysis_UnsafeECB,0
+414,NetworkBench NewLens Android Agent SDK,CryptoCheckAnalysis_InsecureCryptoAlgorithm,22
+415,NetworkBench NewLens Android Agent SDK,CryptoCheckAnalysis_UnInitializedKey,0
+416,androidx.transition:transition,CryptoCheckAnalysis_StaticIV,0
+417,androidx.transition:transition,CryptoCheckAnalysis_HardCodedKey,0
+418,androidx.transition:transition,CryptoCheckAnalysis_UnsafeECB,0
+419,androidx.transition:transition,CryptoCheckAnalysis_InsecureCryptoAlgorithm,2
+420,androidx.transition:transition,CryptoCheckAnalysis_UnInitializedKey,0
+421,Not Yet Commons SSL,CryptoCheckAnalysis_StaticIV,1
+422,Not Yet Commons SSL,CryptoCheckAnalysis_HardCodedKey,1
+423,Not Yet Commons SSL,CryptoCheckAnalysis_UnsafeECB,20
+424,Not Yet Commons SSL,CryptoCheckAnalysis_InsecureCryptoAlgorithm,48
+425,Not Yet Commons SSL,CryptoCheckAnalysis_UnInitializedKey,0
+426,Aliyun Open Services SDK for Java,CryptoCheckAnalysis_StaticIV,0
+427,Aliyun Open Services SDK for Java,CryptoCheckAnalysis_HardCodedKey,0
+428,Aliyun Open Services SDK for Java,CryptoCheckAnalysis_UnsafeECB,0
+429,Aliyun Open Services SDK for Java,CryptoCheckAnalysis_InsecureCryptoAlgorithm,2
+430,Aliyun Open Services SDK for Java,CryptoCheckAnalysis_UnInitializedKey,0
+431,Apache HttpClient Cache,CryptoCheckAnalysis_StaticIV,0
+432,Apache HttpClient Cache,CryptoCheckAnalysis_HardCodedKey,0
+433,Apache HttpClient Cache,CryptoCheckAnalysis_UnsafeECB,0
+434,Apache HttpClient Cache,CryptoCheckAnalysis_InsecureCryptoAlgorithm,3
+435,Apache HttpClient Cache,CryptoCheckAnalysis_UnInitializedKey,0
+436,AWS SDK for Android - Amazon Cognito Identity Provider ASF,CryptoCheckAnalysis_StaticIV,0
+437,AWS SDK for Android - Amazon Cognito Identity Provider ASF,CryptoCheckAnalysis_HardCodedKey,0
+438,AWS SDK for Android - Amazon Cognito Identity Provider ASF,CryptoCheckAnalysis_UnsafeECB,0
+439,AWS SDK for Android - Amazon Cognito Identity Provider ASF,CryptoCheckAnalysis_InsecureCryptoAlgorithm,8
+440,AWS SDK for Android - Amazon Cognito Identity Provider ASF,CryptoCheckAnalysis_UnInitializedKey,0
+441,Parse-Android,CryptoCheckAnalysis_StaticIV,0
+442,Parse-Android,CryptoCheckAnalysis_HardCodedKey,0
+443,Parse-Android,CryptoCheckAnalysis_UnsafeECB,0
+444,Parse-Android,CryptoCheckAnalysis_InsecureCryptoAlgorithm,22
+445,Parse-Android,CryptoCheckAnalysis_UnInitializedKey,0
+446,Glide,CryptoCheckAnalysis_StaticIV,0
+447,Glide,CryptoCheckAnalysis_HardCodedKey,0
+448,Glide,CryptoCheckAnalysis_UnsafeECB,0
+449,Glide,CryptoCheckAnalysis_InsecureCryptoAlgorithm,148
+450,Glide,CryptoCheckAnalysis_UnInitializedKey,0
+451,Trilead SSH-2 Java Library,CryptoCheckAnalysis_StaticIV,0
+452,Trilead SSH-2 Java Library,CryptoCheckAnalysis_HardCodedKey,0
+453,Trilead SSH-2 Java Library,CryptoCheckAnalysis_UnsafeECB,0
+454,Trilead SSH-2 Java Library,CryptoCheckAnalysis_InsecureCryptoAlgorithm,17
+455,Trilead SSH-2 Java Library,CryptoCheckAnalysis_UnInitializedKey,0
+456,Apache Ant Core,CryptoCheckAnalysis_StaticIV,0
+457,Apache Ant Core,CryptoCheckAnalysis_HardCodedKey,0
+458,Apache Ant Core,CryptoCheckAnalysis_UnsafeECB,0
+459,Apache Ant Core,CryptoCheckAnalysis_InsecureCryptoAlgorithm,6
+460,Apache Ant Core,CryptoCheckAnalysis_UnInitializedKey,0
+461,AdobeMobileCoreSdk,CryptoCheckAnalysis_StaticIV,0
+462,AdobeMobileCoreSdk,CryptoCheckAnalysis_HardCodedKey,0
+463,AdobeMobileCoreSdk,CryptoCheckAnalysis_UnsafeECB,0
+464,AdobeMobileCoreSdk,CryptoCheckAnalysis_InsecureCryptoAlgorithm,5
+465,AdobeMobileCoreSdk,CryptoCheckAnalysis_UnInitializedKey,0
+466,Java-WebSocket,CryptoCheckAnalysis_StaticIV,0
+467,Java-WebSocket,CryptoCheckAnalysis_HardCodedKey,0
+468,Java-WebSocket,CryptoCheckAnalysis_UnsafeECB,0
+469,Java-WebSocket,CryptoCheckAnalysis_InsecureCryptoAlgorithm,34
+470,Java-WebSocket,CryptoCheckAnalysis_UnInitializedKey,0
+471,DroidParts,CryptoCheckAnalysis_StaticIV,0
+472,DroidParts,CryptoCheckAnalysis_HardCodedKey,0
+473,DroidParts,CryptoCheckAnalysis_UnsafeECB,0
+474,DroidParts,CryptoCheckAnalysis_InsecureCryptoAlgorithm,4
+475,DroidParts,CryptoCheckAnalysis_UnInitializedKey,0
+476,com.couchbase.lite:couchbase-lite-java-core,CryptoCheckAnalysis_StaticIV,2
+477,com.couchbase.lite:couchbase-lite-java-core,CryptoCheckAnalysis_HardCodedKey,0
+478,com.couchbase.lite:couchbase-lite-java-core,CryptoCheckAnalysis_UnsafeECB,4
+479,com.couchbase.lite:couchbase-lite-java-core,CryptoCheckAnalysis_InsecureCryptoAlgorithm,15
+480,com.couchbase.lite:couchbase-lite-java-core,CryptoCheckAnalysis_UnInitializedKey,0
+481,Instabug Core Library,CryptoCheckAnalysis_StaticIV,0
+482,Instabug Core Library,CryptoCheckAnalysis_HardCodedKey,0
+483,Instabug Core Library,CryptoCheckAnalysis_UnsafeECB,1
+484,Instabug Core Library,CryptoCheckAnalysis_InsecureCryptoAlgorithm,3
+485,Instabug Core Library,CryptoCheckAnalysis_UnInitializedKey,0
+486,com.google.gwt:gwt-user,CryptoCheckAnalysis_StaticIV,0
+487,com.google.gwt:gwt-user,CryptoCheckAnalysis_HardCodedKey,0
+488,com.google.gwt:gwt-user,CryptoCheckAnalysis_UnsafeECB,0
+489,com.google.gwt:gwt-user,CryptoCheckAnalysis_InsecureCryptoAlgorithm,1
+490,com.google.gwt:gwt-user,CryptoCheckAnalysis_UnInitializedKey,0
+491,AppsFlyer SDK,CryptoCheckAnalysis_StaticIV,0
+492,AppsFlyer SDK,CryptoCheckAnalysis_HardCodedKey,0
+493,AppsFlyer SDK,CryptoCheckAnalysis_UnsafeECB,0
+494,AppsFlyer SDK,CryptoCheckAnalysis_InsecureCryptoAlgorithm,313
+495,AppsFlyer SDK,CryptoCheckAnalysis_UnInitializedKey,0
+496,RoboGuice,CryptoCheckAnalysis_StaticIV,0
+497,RoboGuice,CryptoCheckAnalysis_HardCodedKey,0
+498,RoboGuice,CryptoCheckAnalysis_UnsafeECB,0
+499,RoboGuice,CryptoCheckAnalysis_InsecureCryptoAlgorithm,11
+500,RoboGuice,CryptoCheckAnalysis_UnInitializedKey,0
+501,Pollexor,CryptoCheckAnalysis_StaticIV,0
+502,Pollexor,CryptoCheckAnalysis_HardCodedKey,3
+503,Pollexor,CryptoCheckAnalysis_UnsafeECB,3
+504,Pollexor,CryptoCheckAnalysis_InsecureCryptoAlgorithm,15
+505,Pollexor,CryptoCheckAnalysis_UnInitializedKey,0
+506,libGDX Tools,CryptoCheckAnalysis_StaticIV,0
+507,libGDX Tools,CryptoCheckAnalysis_HardCodedKey,0
+508,libGDX Tools,CryptoCheckAnalysis_UnsafeECB,0
+509,libGDX Tools,CryptoCheckAnalysis_InsecureCryptoAlgorithm,2
+510,libGDX Tools,CryptoCheckAnalysis_UnInitializedKey,0
+511,Guava: Google Core Libraries for Java,CryptoCheckAnalysis_StaticIV,0
+512,Guava: Google Core Libraries for Java,CryptoCheckAnalysis_HardCodedKey,0
+513,Guava: Google Core Libraries for Java,CryptoCheckAnalysis_UnsafeECB,0
+514,Guava: Google Core Libraries for Java,CryptoCheckAnalysis_InsecureCryptoAlgorithm,546
+515,Guava: Google Core Libraries for Java,CryptoCheckAnalysis_UnInitializedKey,0
+516,AWS Java SDK for Amazon SQS,CryptoCheckAnalysis_StaticIV,0
+517,AWS Java SDK for Amazon SQS,CryptoCheckAnalysis_HardCodedKey,0
+518,AWS Java SDK for Amazon SQS,CryptoCheckAnalysis_UnsafeECB,0
+519,AWS Java SDK for Amazon SQS,CryptoCheckAnalysis_InsecureCryptoAlgorithm,1
+520,AWS Java SDK for Amazon SQS,CryptoCheckAnalysis_UnInitializedKey,0
+521,commons-net:commons-net,CryptoCheckAnalysis_StaticIV,0
+522,commons-net:commons-net,CryptoCheckAnalysis_HardCodedKey,0
+523,commons-net:commons-net,CryptoCheckAnalysis_UnsafeECB,0
+524,commons-net:commons-net,CryptoCheckAnalysis_InsecureCryptoAlgorithm,21
+525,commons-net:commons-net,CryptoCheckAnalysis_UnInitializedKey,0
+526,Apollo GraphQL Runtime,CryptoCheckAnalysis_StaticIV,0
+527,Apollo GraphQL Runtime,CryptoCheckAnalysis_HardCodedKey,0
+528,Apollo GraphQL Runtime,CryptoCheckAnalysis_UnsafeECB,0
+529,Apollo GraphQL Runtime,CryptoCheckAnalysis_InsecureCryptoAlgorithm,6
+530,Apollo GraphQL Runtime,CryptoCheckAnalysis_UnInitializedKey,0
+531,Jetty :: Aggregate :: All Server,CryptoCheckAnalysis_StaticIV,0
+532,Jetty :: Aggregate :: All Server,CryptoCheckAnalysis_HardCodedKey,0
+533,Jetty :: Aggregate :: All Server,CryptoCheckAnalysis_UnsafeECB,0
+534,Jetty :: Aggregate :: All Server,CryptoCheckAnalysis_InsecureCryptoAlgorithm,4
+535,Jetty :: Aggregate :: All Server,CryptoCheckAnalysis_UnInitializedKey,0
+536,core,CryptoCheckAnalysis_StaticIV,0
+537,core,CryptoCheckAnalysis_HardCodedKey,0
+538,core,CryptoCheckAnalysis_UnsafeECB,0
+539,core,CryptoCheckAnalysis_InsecureCryptoAlgorithm,3
+540,core,CryptoCheckAnalysis_UnInitializedKey,0
+541,qiniu-android-sdk library,CryptoCheckAnalysis_StaticIV,0
+542,qiniu-android-sdk library,CryptoCheckAnalysis_HardCodedKey,0
+543,qiniu-android-sdk library,CryptoCheckAnalysis_UnsafeECB,0
+544,qiniu-android-sdk library,CryptoCheckAnalysis_InsecureCryptoAlgorithm,3
+545,qiniu-android-sdk library,CryptoCheckAnalysis_UnInitializedKey,0
+546,AWS Java SDK for Amazon S3,CryptoCheckAnalysis_StaticIV,0
+547,AWS Java SDK for Amazon S3,CryptoCheckAnalysis_HardCodedKey,0
+548,AWS Java SDK for Amazon S3,CryptoCheckAnalysis_UnsafeECB,166
+549,AWS Java SDK for Amazon S3,CryptoCheckAnalysis_InsecureCryptoAlgorithm,320
+550,AWS Java SDK for Amazon S3,CryptoCheckAnalysis_UnInitializedKey,0
+551,Picasso,CryptoCheckAnalysis_StaticIV,0
+552,Picasso,CryptoCheckAnalysis_HardCodedKey,0
+553,Picasso,CryptoCheckAnalysis_UnsafeECB,0
+554,Picasso,CryptoCheckAnalysis_InsecureCryptoAlgorithm,1
+555,Picasso,CryptoCheckAnalysis_UnInitializedKey,0
+556,com.neovisionaries:nv-websocket-client,CryptoCheckAnalysis_StaticIV,0
+557,com.neovisionaries:nv-websocket-client,CryptoCheckAnalysis_HardCodedKey,0
+558,com.neovisionaries:nv-websocket-client,CryptoCheckAnalysis_UnsafeECB,0
+559,com.neovisionaries:nv-websocket-client,CryptoCheckAnalysis_InsecureCryptoAlgorithm,1
+560,com.neovisionaries:nv-websocket-client,CryptoCheckAnalysis_UnInitializedKey,0
+561,AppAuth for Android,CryptoCheckAnalysis_StaticIV,0
+562,AppAuth for Android,CryptoCheckAnalysis_HardCodedKey,0
+563,AppAuth for Android,CryptoCheckAnalysis_UnsafeECB,0
+564,AppAuth for Android,CryptoCheckAnalysis_InsecureCryptoAlgorithm,4
+565,AppAuth for Android,CryptoCheckAnalysis_UnInitializedKey,0
+566,Microsoft Azure Storage Client SDK,CryptoCheckAnalysis_StaticIV,0
+567,Microsoft Azure Storage Client SDK,CryptoCheckAnalysis_HardCodedKey,0
+568,Microsoft Azure Storage Client SDK,CryptoCheckAnalysis_UnsafeECB,0
+569,Microsoft Azure Storage Client SDK,CryptoCheckAnalysis_InsecureCryptoAlgorithm,10
+570,Microsoft Azure Storage Client SDK,CryptoCheckAnalysis_UnInitializedKey,0
+571,PubNub Java SDK,CryptoCheckAnalysis_StaticIV,5
+572,PubNub Java SDK,CryptoCheckAnalysis_HardCodedKey,0
+573,PubNub Java SDK,CryptoCheckAnalysis_UnsafeECB,6
+574,PubNub Java SDK,CryptoCheckAnalysis_InsecureCryptoAlgorithm,24
+575,PubNub Java SDK,CryptoCheckAnalysis_UnInitializedKey,0
+576,Stetho,CryptoCheckAnalysis_StaticIV,0
+577,Stetho,CryptoCheckAnalysis_HardCodedKey,0
+578,Stetho,CryptoCheckAnalysis_UnsafeECB,0
+579,Stetho,CryptoCheckAnalysis_InsecureCryptoAlgorithm,24
+580,Stetho,CryptoCheckAnalysis_UnInitializedKey,0
+581,Pushwoosh,CryptoCheckAnalysis_StaticIV,0
+582,Pushwoosh,CryptoCheckAnalysis_HardCodedKey,0
+583,Pushwoosh,CryptoCheckAnalysis_UnsafeECB,0
+584,Pushwoosh,CryptoCheckAnalysis_InsecureCryptoAlgorithm,3
+585,Pushwoosh,CryptoCheckAnalysis_UnInitializedKey,0
+586,commons-io:commons-io,CryptoCheckAnalysis_StaticIV,0
+587,commons-io:commons-io,CryptoCheckAnalysis_HardCodedKey,0
+588,commons-io:commons-io,CryptoCheckAnalysis_UnsafeECB,0
+589,commons-io:commons-io,CryptoCheckAnalysis_InsecureCryptoAlgorithm,3
+590,commons-io:commons-io,CryptoCheckAnalysis_UnInitializedKey,0
+591,New Relic Android Class Rewriter,CryptoCheckAnalysis_StaticIV,0
+592,New Relic Android Class Rewriter,CryptoCheckAnalysis_HardCodedKey,0
+593,New Relic Android Class Rewriter,CryptoCheckAnalysis_UnsafeECB,0
+594,New Relic Android Class Rewriter,CryptoCheckAnalysis_InsecureCryptoAlgorithm,7
+595,New Relic Android Class Rewriter,CryptoCheckAnalysis_UnInitializedKey,0
+596,Firebase JVM Client Library,CryptoCheckAnalysis_StaticIV,0
+597,Firebase JVM Client Library,CryptoCheckAnalysis_HardCodedKey,0
+598,Firebase JVM Client Library,CryptoCheckAnalysis_UnsafeECB,0
+599,Firebase JVM Client Library,CryptoCheckAnalysis_InsecureCryptoAlgorithm,13
+600,Firebase JVM Client Library,CryptoCheckAnalysis_UnInitializedKey,0
+601,com.google.android.gms:play-services-basement,CryptoCheckAnalysis_StaticIV,0
+602,com.google.android.gms:play-services-basement,CryptoCheckAnalysis_HardCodedKey,0
+603,com.google.android.gms:play-services-basement,CryptoCheckAnalysis_UnsafeECB,0
+604,com.google.android.gms:play-services-basement,CryptoCheckAnalysis_InsecureCryptoAlgorithm,2
+605,com.google.android.gms:play-services-basement,CryptoCheckAnalysis_UnInitializedKey,0
+606,JCodec,CryptoCheckAnalysis_StaticIV,0
+607,JCodec,CryptoCheckAnalysis_HardCodedKey,0
+608,JCodec,CryptoCheckAnalysis_UnsafeECB,0
+609,JCodec,CryptoCheckAnalysis_InsecureCryptoAlgorithm,2
+610,JCodec,CryptoCheckAnalysis_UnInitializedKey,0
+611,mixpanel-android,CryptoCheckAnalysis_StaticIV,0
+612,mixpanel-android,CryptoCheckAnalysis_HardCodedKey,0
+613,mixpanel-android,CryptoCheckAnalysis_UnsafeECB,0
+614,mixpanel-android,CryptoCheckAnalysis_InsecureCryptoAlgorithm,26
+615,mixpanel-android,CryptoCheckAnalysis_UnInitializedKey,0
+616,twitter4j,CryptoCheckAnalysis_StaticIV,0
+617,twitter4j,CryptoCheckAnalysis_HardCodedKey,0
+618,twitter4j,CryptoCheckAnalysis_UnsafeECB,0
+619,twitter4j,CryptoCheckAnalysis_InsecureCryptoAlgorithm,81
+620,twitter4j,CryptoCheckAnalysis_UnInitializedKey,0
+621,Google OAuth Client Library for Java,CryptoCheckAnalysis_StaticIV,0
+622,Google OAuth Client Library for Java,CryptoCheckAnalysis_HardCodedKey,0
+623,Google OAuth Client Library for Java,CryptoCheckAnalysis_UnsafeECB,0
+624,Google OAuth Client Library for Java,CryptoCheckAnalysis_InsecureCryptoAlgorithm,34
+625,Google OAuth Client Library for Java,CryptoCheckAnalysis_UnInitializedKey,0
+626,io.fabric.sdk.android:fabric,CryptoCheckAnalysis_StaticIV,0
+627,io.fabric.sdk.android:fabric,CryptoCheckAnalysis_HardCodedKey,0
+628,io.fabric.sdk.android:fabric,CryptoCheckAnalysis_UnsafeECB,22
+629,io.fabric.sdk.android:fabric,CryptoCheckAnalysis_InsecureCryptoAlgorithm,764
+630,io.fabric.sdk.android:fabric,CryptoCheckAnalysis_UnInitializedKey,0
+631,Android-Volley Library,CryptoCheckAnalysis_StaticIV,0
+632,Android-Volley Library,CryptoCheckAnalysis_HardCodedKey,0
+633,Android-Volley Library,CryptoCheckAnalysis_UnsafeECB,0
+634,Android-Volley Library,CryptoCheckAnalysis_InsecureCryptoAlgorithm,27
+635,Android-Volley Library,CryptoCheckAnalysis_UnInitializedKey,0
+636,androidx.core:core,CryptoCheckAnalysis_StaticIV,0
+637,androidx.core:core,CryptoCheckAnalysis_HardCodedKey,0
+638,androidx.core:core,CryptoCheckAnalysis_UnsafeECB,0
+639,androidx.core:core,CryptoCheckAnalysis_InsecureCryptoAlgorithm,3
+640,androidx.core:core,CryptoCheckAnalysis_UnInitializedKey,0
+641,com.android.tools.build:builder,CryptoCheckAnalysis_StaticIV,0
+642,com.android.tools.build:builder,CryptoCheckAnalysis_HardCodedKey,0
+643,com.android.tools.build:builder,CryptoCheckAnalysis_UnsafeECB,0
+644,com.android.tools.build:builder,CryptoCheckAnalysis_InsecureCryptoAlgorithm,2
+645,com.android.tools.build:builder,CryptoCheckAnalysis_UnInitializedKey,0
+646,EdDSA-Java,CryptoCheckAnalysis_StaticIV,0
+647,EdDSA-Java,CryptoCheckAnalysis_HardCodedKey,0
+648,EdDSA-Java,CryptoCheckAnalysis_UnsafeECB,0
+649,EdDSA-Java,CryptoCheckAnalysis_InsecureCryptoAlgorithm,4
+650,EdDSA-Java,CryptoCheckAnalysis_UnInitializedKey,0
+651,Official Dropbox Java SDK,CryptoCheckAnalysis_StaticIV,0
+652,Official Dropbox Java SDK,CryptoCheckAnalysis_HardCodedKey,0
+653,Official Dropbox Java SDK,CryptoCheckAnalysis_UnsafeECB,0
+654,Official Dropbox Java SDK,CryptoCheckAnalysis_InsecureCryptoAlgorithm,2
+655,Official Dropbox Java SDK,CryptoCheckAnalysis_UnInitializedKey,0
+656,org.chromium.net:cronet-api,CryptoCheckAnalysis_StaticIV,0
+657,org.chromium.net:cronet-api,CryptoCheckAnalysis_HardCodedKey,0
+658,org.chromium.net:cronet-api,CryptoCheckAnalysis_UnsafeECB,0
+659,org.chromium.net:cronet-api,CryptoCheckAnalysis_InsecureCryptoAlgorithm,18
+660,org.chromium.net:cronet-api,CryptoCheckAnalysis_UnInitializedKey,0
+661,dnsjava,CryptoCheckAnalysis_StaticIV,0
+662,dnsjava,CryptoCheckAnalysis_HardCodedKey,0
+663,dnsjava,CryptoCheckAnalysis_UnsafeECB,0
+664,dnsjava,CryptoCheckAnalysis_InsecureCryptoAlgorithm,33
+665,dnsjava,CryptoCheckAnalysis_UnInitializedKey,0
+666,iText-4.2.1,CryptoCheckAnalysis_StaticIV,1
+667,iText-4.2.1,CryptoCheckAnalysis_HardCodedKey,0
+668,iText-4.2.1,CryptoCheckAnalysis_UnsafeECB,3
+669,iText-4.2.1,CryptoCheckAnalysis_InsecureCryptoAlgorithm,37
+670,iText-4.2.1,CryptoCheckAnalysis_UnInitializedKey,0
+671,com.google.ar:core,CryptoCheckAnalysis_StaticIV,3
+672,com.google.ar:core,CryptoCheckAnalysis_HardCodedKey,2
+673,com.google.ar:core,CryptoCheckAnalysis_UnsafeECB,3
+674,com.google.ar:core,CryptoCheckAnalysis_InsecureCryptoAlgorithm,17
+675,com.google.ar:core,CryptoCheckAnalysis_UnInitializedKey,0
+676,Core mParticle SDK supporting only server-side integrations.,CryptoCheckAnalysis_StaticIV,0
+677,Core mParticle SDK supporting only server-side integrations.,CryptoCheckAnalysis_HardCodedKey,0
+678,Core mParticle SDK supporting only server-side integrations.,CryptoCheckAnalysis_UnsafeECB,0
+679,Core mParticle SDK supporting only server-side integrations.,CryptoCheckAnalysis_InsecureCryptoAlgorithm,2
+680,Core mParticle SDK supporting only server-side integrations.,CryptoCheckAnalysis_UnInitializedKey,0
+681,com.google.android.gms:play-services-measurement-base,CryptoCheckAnalysis_StaticIV,0
+682,com.google.android.gms:play-services-measurement-base,CryptoCheckAnalysis_HardCodedKey,0
+683,com.google.android.gms:play-services-measurement-base,CryptoCheckAnalysis_UnsafeECB,43
+684,com.google.android.gms:play-services-measurement-base,CryptoCheckAnalysis_InsecureCryptoAlgorithm,157
+685,com.google.android.gms:play-services-measurement-base,CryptoCheckAnalysis_UnInitializedKey,0
+686,jCIFS,CryptoCheckAnalysis_StaticIV,0
+687,jCIFS,CryptoCheckAnalysis_HardCodedKey,0
+688,jCIFS,CryptoCheckAnalysis_UnsafeECB,0
+689,jCIFS,CryptoCheckAnalysis_InsecureCryptoAlgorithm,26
+690,jCIFS,CryptoCheckAnalysis_UnInitializedKey,0
+691,io.grpc:grpc-okhttp,CryptoCheckAnalysis_StaticIV,0
+692,io.grpc:grpc-okhttp,CryptoCheckAnalysis_HardCodedKey,0
+693,io.grpc:grpc-okhttp,CryptoCheckAnalysis_UnsafeECB,0
+694,io.grpc:grpc-okhttp,CryptoCheckAnalysis_InsecureCryptoAlgorithm,39
+695,io.grpc:grpc-okhttp,CryptoCheckAnalysis_UnInitializedKey,0
+696,com.google.android.gms:play-services-ads-base,CryptoCheckAnalysis_StaticIV,200
+697,com.google.android.gms:play-services-ads-base,CryptoCheckAnalysis_HardCodedKey,856
+698,com.google.android.gms:play-services-ads-base,CryptoCheckAnalysis_UnsafeECB,4115
+699,com.google.android.gms:play-services-ads-base,CryptoCheckAnalysis_InsecureCryptoAlgorithm,23108
+700,com.google.android.gms:play-services-ads-base,CryptoCheckAnalysis_UnInitializedKey,0
+701,jBCrypt,CryptoCheckAnalysis_StaticIV,0
+702,jBCrypt,CryptoCheckAnalysis_HardCodedKey,0
+703,jBCrypt,CryptoCheckAnalysis_UnsafeECB,0
+704,jBCrypt,CryptoCheckAnalysis_InsecureCryptoAlgorithm,1
+705,jBCrypt,CryptoCheckAnalysis_UnInitializedKey,0
+706,AWS SDK for Java - Core,CryptoCheckAnalysis_StaticIV,0
+707,AWS SDK for Java - Core,CryptoCheckAnalysis_HardCodedKey,1
+708,AWS SDK for Java - Core,CryptoCheckAnalysis_UnsafeECB,1
+709,AWS SDK for Java - Core,CryptoCheckAnalysis_InsecureCryptoAlgorithm,214
+710,AWS SDK for Java - Core,CryptoCheckAnalysis_UnInitializedKey,0
+711,OkHTTP3,CryptoCheckAnalysis_StaticIV,0
+712,OkHTTP3,CryptoCheckAnalysis_HardCodedKey,0
+713,OkHTTP3,CryptoCheckAnalysis_UnsafeECB,0
+714,OkHTTP3,CryptoCheckAnalysis_InsecureCryptoAlgorithm,536
+715,OkHTTP3,CryptoCheckAnalysis_UnInitializedKey,0
+716,Facebook-Core-Android-SDK,CryptoCheckAnalysis_StaticIV,0
+717,Facebook-Core-Android-SDK,CryptoCheckAnalysis_HardCodedKey,0
+718,Facebook-Core-Android-SDK,CryptoCheckAnalysis_UnsafeECB,0
+719,Facebook-Core-Android-SDK,CryptoCheckAnalysis_InsecureCryptoAlgorithm,1898
+720,Facebook-Core-Android-SDK,CryptoCheckAnalysis_UnInitializedKey,0
+721,com.google.android.play:core,CryptoCheckAnalysis_StaticIV,0
+722,com.google.android.play:core,CryptoCheckAnalysis_HardCodedKey,0
+723,com.google.android.play:core,CryptoCheckAnalysis_UnsafeECB,0
+724,com.google.android.play:core,CryptoCheckAnalysis_InsecureCryptoAlgorithm,276
+725,com.google.android.play:core,CryptoCheckAnalysis_UnInitializedKey,0
+726,urbanairship-core,CryptoCheckAnalysis_StaticIV,0
+727,urbanairship-core,CryptoCheckAnalysis_HardCodedKey,0
+728,urbanairship-core,CryptoCheckAnalysis_UnsafeECB,0
+729,urbanairship-core,CryptoCheckAnalysis_InsecureCryptoAlgorithm,29
+730,urbanairship-core,CryptoCheckAnalysis_UnInitializedKey,0
+731,jboss:javassist,CryptoCheckAnalysis_StaticIV,0
+732,jboss:javassist,CryptoCheckAnalysis_HardCodedKey,0
+733,jboss:javassist,CryptoCheckAnalysis_UnsafeECB,0
+734,jboss:javassist,CryptoCheckAnalysis_InsecureCryptoAlgorithm,1
+735,jboss:javassist,CryptoCheckAnalysis_UnInitializedKey,0
+736,greenrobot-essentials,CryptoCheckAnalysis_StaticIV,0
+737,greenrobot-essentials,CryptoCheckAnalysis_HardCodedKey,0
+738,greenrobot-essentials,CryptoCheckAnalysis_UnsafeECB,0
+739,greenrobot-essentials,CryptoCheckAnalysis_InsecureCryptoAlgorithm,2
+740,greenrobot-essentials,CryptoCheckAnalysis_UnInitializedKey,0
+741,Netty/All-in-One,CryptoCheckAnalysis_StaticIV,0
+742,Netty/All-in-One,CryptoCheckAnalysis_HardCodedKey,0
+743,Netty/All-in-One,CryptoCheckAnalysis_UnsafeECB,0
+744,Netty/All-in-One,CryptoCheckAnalysis_InsecureCryptoAlgorithm,6
+745,Netty/All-in-One,CryptoCheckAnalysis_UnInitializedKey,0
+746,com.google.android.gms:play-services-clearcut,CryptoCheckAnalysis_StaticIV,0
+747,com.google.android.gms:play-services-clearcut,CryptoCheckAnalysis_HardCodedKey,0
+748,com.google.android.gms:play-services-clearcut,CryptoCheckAnalysis_UnsafeECB,0
+749,com.google.android.gms:play-services-clearcut,CryptoCheckAnalysis_InsecureCryptoAlgorithm,1
+750,com.google.android.gms:play-services-clearcut,CryptoCheckAnalysis_UnInitializedKey,0
+751,Jetty :: Security,CryptoCheckAnalysis_StaticIV,0
+752,Jetty :: Security,CryptoCheckAnalysis_HardCodedKey,0
+753,Jetty :: Security,CryptoCheckAnalysis_UnsafeECB,0
+754,Jetty :: Security,CryptoCheckAnalysis_InsecureCryptoAlgorithm,4
+755,Jetty :: Security,CryptoCheckAnalysis_UnInitializedKey,0
+756,Kryo,CryptoCheckAnalysis_StaticIV,0
+757,Kryo,CryptoCheckAnalysis_HardCodedKey,0
+758,Kryo,CryptoCheckAnalysis_UnsafeECB,3
+759,Kryo,CryptoCheckAnalysis_InsecureCryptoAlgorithm,6
+760,Kryo,CryptoCheckAnalysis_UnInitializedKey,0
+761,ktor-utils,CryptoCheckAnalysis_StaticIV,0
+762,ktor-utils,CryptoCheckAnalysis_HardCodedKey,0
+763,ktor-utils,CryptoCheckAnalysis_UnsafeECB,0
+764,ktor-utils,CryptoCheckAnalysis_InsecureCryptoAlgorithm,6
+765,ktor-utils,CryptoCheckAnalysis_UnInitializedKey,0
+766,Axiom API,CryptoCheckAnalysis_StaticIV,0
+767,Axiom API,CryptoCheckAnalysis_HardCodedKey,0
+768,Axiom API,CryptoCheckAnalysis_UnsafeECB,0
+769,Axiom API,CryptoCheckAnalysis_InsecureCryptoAlgorithm,1
+770,Axiom API,CryptoCheckAnalysis_UnInitializedKey,0

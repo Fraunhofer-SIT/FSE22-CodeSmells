@@ -1,0 +1,309 @@
+id,libraryName,category,numFindings
+1,minidns,Code Quality,0
+2,minidns,Cryptography,32
+3,JJWT :: API,Code Quality,0
+4,JJWT :: API,Cryptography,72
+5,Jetty :: Websocket,Code Quality,0
+6,Jetty :: Websocket,Cryptography,4
+7,com.crashlytics.sdk.android:crashlytics,Code Quality,0
+8,com.crashlytics.sdk.android:crashlytics,Cryptography,6
+9,RestFB,Code Quality,0
+10,RestFB,Cryptography,7
+11,Bytes Utility Library,Code Quality,1
+12,Bytes Utility Library,Cryptography,1
+13,Apache JAMES Mime4j,Code Quality,0
+14,Apache JAMES Mime4j,Cryptography,35
+15,Okio,Code Quality,0
+16,Okio,Cryptography,5732
+17,Facebook Core,Code Quality,0
+18,Facebook Core,Cryptography,199
+19,Smack,Code Quality,0
+20,Smack,Cryptography,68
+21,Cloudinary Core Library,Code Quality,0
+22,Cloudinary Core Library,Cryptography,5
+23,Asynchronous Http Client,Code Quality,0
+24,Asynchronous Http Client,Cryptography,25
+25,Amplitude Android SDK,Code Quality,0
+26,Amplitude Android SDK,Cryptography,74
+27,Codec,Code Quality,0
+28,Codec,Cryptography,903
+29,Scribe OAuth Library,Code Quality,0
+30,Scribe OAuth Library,Cryptography,40
+31,smbj,Code Quality,0
+32,smbj,Cryptography,12
+33,com.google.android.gms:play-services-iid,Code Quality,0
+34,com.google.android.gms:play-services-iid,Cryptography,1106
+35,okhttp,Code Quality,0
+36,okhttp,Cryptography,664
+37,AppNexus Android SDK,Code Quality,0
+38,AppNexus Android SDK,Cryptography,6
+39,JSON Web Token support for the JVM,Code Quality,0
+40,JSON Web Token support for the JVM,Cryptography,648
+41,Google HTTP Client Library for Java,Code Quality,0
+42,Google HTTP Client Library for Java,Cryptography,40
+43,com.google.firebase:firebase-perf,Code Quality,0
+44,com.google.firebase:firebase-perf,Cryptography,8
+45,Smack Extensions,Code Quality,0
+46,Smack Extensions,Cryptography,3
+47,Apache HttpClient,Code Quality,0
+48,Apache HttpClient,Cryptography,122
+49,com.google.android.ads.consent:consent-library,Code Quality,0
+50,com.google.android.ads.consent:consent-library,Cryptography,53
+51,Apache Avro Tools,Code Quality,0
+52,Apache Avro Tools,Cryptography,8
+53,com.google.android.gms:play-services-appindexing,Code Quality,0
+54,com.google.android.gms:play-services-appindexing,Cryptography,13492
+55,org.eclipse.paho:org.eclipse.paho.client.mqttv3,Code Quality,0
+56,org.eclipse.paho:org.eclipse.paho.client.mqttv3,Cryptography,6
+57,ISO Parser,Code Quality,0
+58,ISO Parser,Cryptography,84
+59,ApacheDS All,Code Quality,0
+60,ApacheDS All,Cryptography,18
+61,PDF Renderer,Code Quality,0
+62,PDF Renderer,Cryptography,8
+63,dexmaker,Code Quality,0
+64,dexmaker,Cryptography,1
+65,net.lingala.zip4j:zip4j,Code Quality,0
+66,net.lingala.zip4j:zip4j,Cryptography,23
+67,stripe-java,Code Quality,0
+68,stripe-java,Cryptography,13
+69,Apache FreeMarker,Code Quality,0
+70,Apache FreeMarker,Cryptography,4
+71,Apache FtpServer Core,Code Quality,0
+72,Apache FtpServer Core,Cryptography,3
+73,com.google.android.libraries.places:places-compat,Code Quality,0
+74,com.google.android.libraries.places:places-compat,Cryptography,9
+75,AWS SDK for Android - Core Runtime,Code Quality,0
+76,AWS SDK for Android - Core Runtime,Cryptography,88
+77,com.google.android.gms:play-services-tagmanager-api,Code Quality,0
+78,com.google.android.gms:play-services-tagmanager-api,Cryptography,2036
+79,Reflection Utilities,Code Quality,0
+80,Reflection Utilities,Cryptography,1
+81,scrypt,Code Quality,0
+82,scrypt,Cryptography,2
+83,JavaMail API (compat),Code Quality,0
+84,JavaMail API (compat),Cryptography,46
+85,iText Core,Code Quality,0
+86,iText Core,Cryptography,143
+87,twitter4j-core,Code Quality,0
+88,twitter4j-core,Cryptography,300
+89,Processor,Code Quality,0
+90,Processor,Cryptography,4
+91,LDAP Class Libraries for Java (JLDAP),Code Quality,0
+92,LDAP Class Libraries for Java (JLDAP),Cryptography,10
+93,com.google.android.gms:play-services-analytics-impl,Code Quality,0
+94,com.google.android.gms:play-services-analytics-impl,Cryptography,483
+95,socialauth,Code Quality,0
+96,socialauth,Cryptography,6
+97,flink-runtime,Code Quality,0
+98,flink-runtime,Cryptography,4
+99,JSch,Code Quality,0
+100,JSch,Cryptography,159
+101,aliyun-oss-sdk-android,Code Quality,0
+102,aliyun-oss-sdk-android,Cryptography,5
+103,Nimbus JOSE+JWT,Code Quality,0
+104,Nimbus JOSE+JWT,Cryptography,670
+105,Universal Image Loader Library,Code Quality,0
+106,Universal Image Loader Library,Cryptography,93
+107,Apache Commons Math,Code Quality,0
+108,Apache Commons Math,Cryptography,2
+109,Branch Android SDK,Code Quality,0
+110,Branch Android SDK,Cryptography,17
+111,Android Common Library Billing,Code Quality,0
+112,Android Common Library Billing,Cryptography,22
+113,SoLoader,Code Quality,0
+114,SoLoader,Cryptography,46
+115,XZ for Java,Code Quality,0
+116,XZ for Java,Cryptography,7
+117,com.google.firebase:firebase-ml-natural-language-translate,Code Quality,0
+118,com.google.firebase:firebase-ml-natural-language-translate,Cryptography,1
+119,Apache Commons Compress,Code Quality,0
+120,Apache Commons Compress,Cryptography,9
+121,GNU Crypto,Code Quality,0
+122,GNU Crypto,Cryptography,14
+123,facebook4j-core,Code Quality,0
+124,facebook4j-core,Cryptography,2
+125,AndroidAsync,Code Quality,0
+126,AndroidAsync,Cryptography,26
+127,com.google.firebase:firebase-database-connection,Code Quality,0
+128,com.google.firebase:firebase-database-connection,Cryptography,3
+129,Java Client for Google Maps Services,Code Quality,0
+130,Java Client for Google Maps Services,Cryptography,2
+131,signpost-core,Code Quality,0
+132,signpost-core,Cryptography,112
+133,jscep,Code Quality,0
+134,jscep,Cryptography,5
+135,Apache POI,Code Quality,0
+136,Apache POI,Cryptography,13
+137,OkHttp,Code Quality,0
+138,OkHttp,Cryptography,372
+139,Tomitribe :: HTTP Signatures,Code Quality,0
+140,Tomitribe :: HTTP Signatures,Cryptography,143
+141,androidx.security:security-crypto,Code Quality,0
+142,androidx.security:security-crypto,Cryptography,6
+143,Mozilla Rhino,Code Quality,0
+144,Mozilla Rhino,Cryptography,12
+145,getdown,Code Quality,0
+146,getdown,Cryptography,33
+147,POJava Utilities,Code Quality,0
+148,POJava Utilities,Cryptography,2
+149,paypal-android-sdk,Code Quality,0
+150,paypal-android-sdk,Cryptography,179
+151,jose4j,Code Quality,0
+152,jose4j,Cryptography,127
+153,com.google.android.gms:auth-api-impl,Code Quality,0
+154,com.google.android.gms:auth-api-impl,Cryptography,18
+155,androidx.test:runner,Code Quality,0
+156,androidx.test:runner,Cryptography,1
+157,Apache Commons VFS,Code Quality,0
+158,Apache Commons VFS,Cryptography,12
+159,Robospice - Persistence Module,Code Quality,0
+160,Robospice - Persistence Module,Cryptography,2
+161,Jetty :: Utilities,Code Quality,0
+162,Jetty :: Utilities,Cryptography,4
+163,com.google.android.gms:play-services-ads-lite,Code Quality,0
+164,com.google.android.gms:play-services-ads-lite,Cryptography,888
+165,NetworkBench NewLens Android Agent SDK,Code Quality,0
+166,NetworkBench NewLens Android Agent SDK,Cryptography,22
+167,androidx.transition:transition,Code Quality,0
+168,androidx.transition:transition,Cryptography,2
+169,Not Yet Commons SSL,Code Quality,0
+170,Not Yet Commons SSL,Cryptography,70
+171,Aliyun Open Services SDK for Java,Code Quality,0
+172,Aliyun Open Services SDK for Java,Cryptography,2
+173,Apache HttpClient Cache,Code Quality,0
+174,Apache HttpClient Cache,Cryptography,3
+175,AWS SDK for Android - Amazon Cognito Identity Provider ASF,Code Quality,0
+176,AWS SDK for Android - Amazon Cognito Identity Provider ASF,Cryptography,8
+177,Parse-Android,Code Quality,0
+178,Parse-Android,Cryptography,22
+179,Glide,Code Quality,0
+180,Glide,Cryptography,148
+181,Trilead SSH-2 Java Library,Code Quality,0
+182,Trilead SSH-2 Java Library,Cryptography,17
+183,Apache Ant Core,Code Quality,0
+184,Apache Ant Core,Cryptography,6
+185,AdobeMobileCoreSdk,Code Quality,0
+186,AdobeMobileCoreSdk,Cryptography,5
+187,Java-WebSocket,Code Quality,0
+188,Java-WebSocket,Cryptography,34
+189,DroidParts,Code Quality,0
+190,DroidParts,Cryptography,4
+191,com.couchbase.lite:couchbase-lite-java-core,Code Quality,0
+192,com.couchbase.lite:couchbase-lite-java-core,Cryptography,21
+193,com.google.gwt:gwt-user,Code Quality,0
+194,com.google.gwt:gwt-user,Cryptography,1
+195,Instabug Core Library,Code Quality,0
+196,Instabug Core Library,Cryptography,4
+197,AppsFlyer SDK,Code Quality,0
+198,AppsFlyer SDK,Cryptography,313
+199,RoboGuice,Code Quality,0
+200,RoboGuice,Cryptography,11
+201,libGDX Tools,Code Quality,0
+202,libGDX Tools,Cryptography,2
+203,Pollexor,Code Quality,0
+204,Pollexor,Cryptography,21
+205,Guava: Google Core Libraries for Java,Code Quality,0
+206,Guava: Google Core Libraries for Java,Cryptography,546
+207,AWS Java SDK for Amazon SQS,Code Quality,0
+208,AWS Java SDK for Amazon SQS,Cryptography,1
+209,commons-net:commons-net,Code Quality,0
+210,commons-net:commons-net,Cryptography,21
+211,Apollo GraphQL Runtime,Code Quality,0
+212,Apollo GraphQL Runtime,Cryptography,6
+213,Jetty :: Aggregate :: All Server,Code Quality,0
+214,Jetty :: Aggregate :: All Server,Cryptography,4
+215,core,Code Quality,0
+216,core,Cryptography,3
+217,qiniu-android-sdk library,Code Quality,0
+218,qiniu-android-sdk library,Cryptography,3
+219,AWS Java SDK for Amazon S3,Code Quality,0
+220,AWS Java SDK for Amazon S3,Cryptography,486
+221,Picasso,Code Quality,0
+222,Picasso,Cryptography,1
+223,com.neovisionaries:nv-websocket-client,Code Quality,0
+224,com.neovisionaries:nv-websocket-client,Cryptography,1
+225,AppAuth for Android,Code Quality,0
+226,AppAuth for Android,Cryptography,4
+227,Microsoft Azure Storage Client SDK,Code Quality,0
+228,Microsoft Azure Storage Client SDK,Cryptography,10
+229,PubNub Java SDK,Code Quality,0
+230,PubNub Java SDK,Cryptography,35
+231,Stetho,Code Quality,0
+232,Stetho,Cryptography,24
+233,Pushwoosh,Code Quality,0
+234,Pushwoosh,Cryptography,3
+235,commons-io:commons-io,Code Quality,0
+236,commons-io:commons-io,Cryptography,3
+237,New Relic Android Class Rewriter,Code Quality,0
+238,New Relic Android Class Rewriter,Cryptography,7
+239,Firebase JVM Client Library,Code Quality,0
+240,Firebase JVM Client Library,Cryptography,13
+241,com.google.android.gms:play-services-basement,Code Quality,0
+242,com.google.android.gms:play-services-basement,Cryptography,2
+243,JCodec,Code Quality,0
+244,JCodec,Cryptography,2
+245,mixpanel-android,Code Quality,0
+246,mixpanel-android,Cryptography,26
+247,twitter4j,Code Quality,0
+248,twitter4j,Cryptography,81
+249,Google OAuth Client Library for Java,Code Quality,0
+250,Google OAuth Client Library for Java,Cryptography,34
+251,io.fabric.sdk.android:fabric,Code Quality,0
+252,io.fabric.sdk.android:fabric,Cryptography,786
+253,Android-Volley Library,Code Quality,0
+254,Android-Volley Library,Cryptography,27
+255,androidx.core:core,Code Quality,0
+256,androidx.core:core,Cryptography,3
+257,com.android.tools.build:builder,Code Quality,0
+258,com.android.tools.build:builder,Cryptography,2
+259,EdDSA-Java,Code Quality,0
+260,EdDSA-Java,Cryptography,4
+261,Official Dropbox Java SDK,Code Quality,0
+262,Official Dropbox Java SDK,Cryptography,2
+263,org.chromium.net:cronet-api,Code Quality,0
+264,org.chromium.net:cronet-api,Cryptography,18
+265,dnsjava,Code Quality,0
+266,dnsjava,Cryptography,33
+267,iText-4.2.1,Code Quality,0
+268,iText-4.2.1,Cryptography,41
+269,com.google.ar:core,Code Quality,0
+270,com.google.ar:core,Cryptography,25
+271,Core mParticle SDK supporting only server-side integrations.,Code Quality,0
+272,Core mParticle SDK supporting only server-side integrations.,Cryptography,2
+273,com.google.android.gms:play-services-measurement-base,Code Quality,0
+274,com.google.android.gms:play-services-measurement-base,Cryptography,200
+275,jCIFS,Code Quality,0
+276,jCIFS,Cryptography,26
+277,io.grpc:grpc-okhttp,Code Quality,0
+278,io.grpc:grpc-okhttp,Cryptography,39
+279,com.google.android.gms:play-services-ads-base,Code Quality,0
+280,com.google.android.gms:play-services-ads-base,Cryptography,28279
+281,jBCrypt,Code Quality,0
+282,jBCrypt,Cryptography,1
+283,AWS SDK for Java - Core,Code Quality,0
+284,AWS SDK for Java - Core,Cryptography,216
+285,OkHTTP3,Code Quality,0
+286,OkHTTP3,Cryptography,536
+287,Facebook-Core-Android-SDK,Code Quality,0
+288,Facebook-Core-Android-SDK,Cryptography,1898
+289,com.google.android.play:core,Code Quality,0
+290,com.google.android.play:core,Cryptography,276
+291,urbanairship-core,Code Quality,0
+292,urbanairship-core,Cryptography,29
+293,jboss:javassist,Code Quality,0
+294,jboss:javassist,Cryptography,1
+295,greenrobot-essentials,Code Quality,0
+296,greenrobot-essentials,Cryptography,2
+297,Netty/All-in-One,Code Quality,0
+298,Netty/All-in-One,Cryptography,6
+299,com.google.android.gms:play-services-clearcut,Code Quality,0
+300,com.google.android.gms:play-services-clearcut,Cryptography,1
+301,Jetty :: Security,Code Quality,0
+302,Jetty :: Security,Cryptography,4
+303,Kryo,Code Quality,0
+304,Kryo,Cryptography,9
+305,ktor-utils,Code Quality,0
+306,ktor-utils,Cryptography,6
+307,Axiom API,Code Quality,0
+308,Axiom API,Cryptography,1
